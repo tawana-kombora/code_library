@@ -2,7 +2,7 @@
 ## Holding all the reusable bits of code I write, for furture use!
 
 - I got this idea while going through a course when I realized two things.
-  -1. I'll probably be writing a lot of simialr code.
+  - 1. I'll probably be writing a lot of simialr code.
   - 2. Some functionality that I create doesn't need to be recreated. I could simply search my library for it.
 
 ## Below this heading is a method to create and push a local repository to gihub!
