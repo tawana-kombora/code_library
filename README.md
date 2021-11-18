@@ -1,7 +1,7 @@
 # Code Library
 ## Holding all the reusable bits of code I write, for furture use!
 
-
+# Below this heading is a method to create and push a local repository to gihub!
 ## Create a new repository on the command line
  
 - echo "# Code_Library" >> README.md
