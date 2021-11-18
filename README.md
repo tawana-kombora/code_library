@@ -1,8 +1,8 @@
 # Code Library
 ## Holding all the reusable bits of code I write, for furture use!
 
-# Below this heading is a method to create and push a local repository to gihub!
-## Create a new repository on the command line
+## Below this heading is a method to create and push a local repository to gihub!
+### Create a new repository on the command line
  
 - echo "# Code_Library" >> README.md
 - git init
@@ -12,7 +12,7 @@
 - git remote add origin git@github.com:tawana-kombora/Code_Library.git
 - git push -u origin main
  
-## Push an existing repository from the command line
+### Push an existing repository from the command line
  
 - git remote add origin git@github.com:tawana-kombora/Code_Library.git
 <!-- optional (use if you don't have a default <git config --global init.defaultBranch main>):
