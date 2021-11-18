@@ -3,7 +3,8 @@
  * the amount of times I rewrite code certain pieces of code.
 */
 
-function capitalize(word) {
+//  Capitalize Function
+export function capitalize(word) {
     word = (word.substring(0, 1).toUpperCase()) + (word.substring(1).toLowerCase());
     console.log(word)
     return word;
