@@ -4,14 +4,17 @@
 
 ## Create a new repository on the command line
  
-touch README.md
+echo "# Code_Library" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/c0ldlimit/vimcolors.git
-git push -u origin master
+git branch -M main
+git remote add origin git@github.com:tawana-kombora/Code_Library.git
+git push -u origin main
  
 ## Push an existing repository from the command line
  
-git remote add origin https://github.com/c0ldlimit/vimcolors.git
-git push -u origin master
+git remote add origin git@github.com:tawana-kombora/Code_Library.git
+<!-- optional (use if you don't have a default <git config --global init.defaultBranch main>):
+ git branch -M main --> 
+git push -u origin main
