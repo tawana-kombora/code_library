@@ -5,7 +5,7 @@
 
 //  Capitalize Function
 export function capitalize(word) {
-    word = (word.substring(0, 1).toUpperCase()) + (word.substring(1).toLowerCase());
-    console.log(word)
-    return word;
+    let capitalized = (word.substring(0, 1).toUpperCase()) + (word.substring(1).toLowerCase());
+    // console.log(capitalized) - console.log only for checking that it works
+    return capitalized;
 }
